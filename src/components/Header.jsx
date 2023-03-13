@@ -1,8 +1,16 @@
+import styles from "./Header.module.css"
+
 const Header = () =>{
 
+   const menustyle ={
+    backgroundColor: "yellow", 
+    padding:20, 
+    borderRadius: 10
+   };
+
     return (
-        <div className="Menu">
-        <a href=""> logo</a>
+        <div className={styles.menu}>
+        <a href="">logo</a>
         <ul>
             <li>
                 <a href="">Home</a>
@@ -19,7 +27,7 @@ const Header = () =>{
         </ul>
         <a href="">5</a>
     </div>
-    );   
+    );
 };
 
 export default Header;
