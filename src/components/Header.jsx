@@ -1,4 +1,4 @@
-import styles from "./Header.module.css"
+import "../style.css";
 
 const Header = () =>{
 
@@ -9,9 +9,9 @@ const Header = () =>{
    };
 
     return (
-        <div className={styles.menu}>
+        <div className="menu">
         <a href="">logo</a>
-        <ul>
+        <ul className="menu-itmes">
             <li>
                 <a href="">Home</a>
             </li>

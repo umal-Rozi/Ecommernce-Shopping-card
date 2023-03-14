@@ -1,0 +1,21 @@
+.menu{
+    
+    color: #fff;
+    max-width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.menu-itmes{
+    display: flex;
+
+}
+.menu-itmes li{
+    margin: 10px ;
+
+}
+.menu-itmes li a{
+    text-decoration: none;
+}
