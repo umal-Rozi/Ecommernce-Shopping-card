@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+app wax uu kaa caawinyaa istic malka 
 # card App kaa caawinay inaad wax ku dalban kartid kaaso lo aderrgsnoh
 qaabab badan kaa so leh qaybo badan 
 
