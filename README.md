@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# card App kaa caawinay inaad wax ku dalban kartid kaaso lo aderrgsnoh
+qaabab badan kaa so leh qaybo badan 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
