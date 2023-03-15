@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-app wax uu kaa caawinyaa istic malka wax iibsiga si yar oo fudud 
+app wax uu kaa caawinyaa isticmalka wax iibsiga si yar oo fudud 
 # card App kaa caawinay inaad wax ku dalban kartid kaaso lo aderrgsnoh
 qaabab badan kaa so leh qaybo badan 
 
