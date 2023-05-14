@@ -5,11 +5,7 @@ qaabab badan kaa so leh qaybo badan ...
 
 
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
 
 
 
